@@ -10,7 +10,8 @@ Twelve years of working experience in IBM India pvt ltd encompassing depth skill
 ```markdown
 * Twelve years of working experience in IBM India pvt ltd.
 * Encompassing depth skill set on Linux OS, KVM, Containers, Systems (IBM Power servers and x86) knowledge derived during various technical roles handled.
-* Had been part of Linux Technology Center for close to 5 years, lead KVM testing team to enable Linux and KVM on IBM Power Systems. Experience in testing Linux kernel, Linux KVM and automation of tests execution using jenkins and other opensource frameworks.
+* Had been part of Linux Technology Center for close to 5 years, lead KVM testing team to enable Linux and KVM on IBM Power and x86 Systems. 
+* Experience in testing Linux kernel, Linux KVM and automation of tests execution using jenkins and other opensource frameworks.
 * Have executed IBM Power Server Platform management solutions for Banking, Shipping, Telecom and public sector industry.
 * Deep skills in Linux and KVM virtualization stack.
 * Involved in imparting training to customers on IBM Platform Management solutions and System x86 Bladecenter technicals.
