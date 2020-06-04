@@ -1,4 +1,4 @@
-## Welcome to my GitHub writeups
+# Welcome to my GitHub writeups
 
 
 This site is meant to be my tech dairy.
