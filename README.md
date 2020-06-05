@@ -22,4 +22,4 @@ Twelve years of working experience in IBM India pvt ltd encompassing depth skill
 June 05th 2020
 ### SDET of Linux based Hypervisor in Cloud
 This concept paper talks about coming up with the QA plan for validating new linux based hypervisor hosts which needs to be infused into a cloud environment. An attempt is made to throw light on areas of QA coverage and role the of automation.
-For more reading [refer](https://bssrikanth.github.io/bssrikanth.github.io/Compute_cloud_infusion_conceptpaper.html)
+For more reading [refer](https://bssrikanth.github.io/bssrikanth.github.io/Compute_cloud_infusion_conceptpaper.html).
