@@ -1,4 +1,4 @@
-# Tech Dairy
+Tech Dairy
 
 
 This site is meant to be my tech dairy.
